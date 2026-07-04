@@ -14,6 +14,8 @@
     <a href="#install">Install in 30 seconds</a>
     &middot;
     <a href="https://github.com/berbyte/arx-community/issues/new/choose">Report a Bug</a>
+    &middot;
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1ZMW00y63c79sf1_d52OYZXY-ey5lNSKG_5e_oBnhe9xUCg/viewform"><strong>Join the waitlist</strong></a>
   </p>
 
   <p align="center">
@@ -25,6 +27,8 @@
 
 > [!WARNING]
 > **ARX is currently in private beta.** The parser has been tested against 1636 sessions, but your patterns will likely surface edge cases we haven't seen yet. Bugs at this stage are expected and useful please [report them here](https://github.com/berbyte/arx-community/issues/new/choose).
+>
+> Want in? [**Join the waitlist →**](https://docs.google.com/forms/d/e/1FAIpQLSd1ZMW00y63c79sf1_d52OYZXY-ey5lNSKG_5e_oBnhe9xUCg/viewform) Invites go out in batches to a limited design partner cohort.
 
 ---
 
@@ -88,6 +92,7 @@ New to ARX? [docs/quickstart.md](docs/quickstart.md) walks through what just hap
 - [Ping: AGENTS.md compliance check](#ping-agentsmd-compliance-check)
 - [How it works](#how-it-works)
 - [Privacy](#privacy)
+- [Early access](#early-access)
 - [Feedback](#feedback)
 - [Full documentation](docs/README.md)
 
@@ -160,6 +165,20 @@ ARX hooks into your AI tool's session context — not your IDE, not your network
 Your work stays on your machine. ARX **never** transmits your code, diffs, prompts, tokens, secrets, or API keys to us or anyone else — prompt analysis runs entirely through your local AI tools, which already hold that data.
 
 **Full reference:** [docs/privacy.md](docs/privacy.md) · [docs/paranoid-setup.md](docs/paranoid-setup.md) for blocking all network access at the OS level.
+
+---
+
+## Early access
+
+See how AI work actually happened. Join early teams using ARX to review prompts, decisions, tool usage, and execution risk before it turns into production debt.
+
+**Limited design partner cohort — invites go out in batches.**
+
+<div align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd1ZMW00y63c79sf1_d52OYZXY-ey5lNSKG_5e_oBnhe9xUCg/viewform"><strong>Get early access »</strong></a>
+</div>
+
+No spam. We'll reach out when your spot opens up.
 
 ---
 
